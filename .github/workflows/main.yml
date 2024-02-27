@@ -1,4 +1,4 @@
-name: Example Workflow
+name: Running a python script
 
 on:
   push:
